@@ -1,5 +1,11 @@
 # 𝐅𝐫𝐨𝐦 𝐀𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐨 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬 — 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐓𝐫𝐚𝐧𝐬𝐥𝐚𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥 𝐟𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡
 
+---
+
+https://github.com/user-attachments/assets/9a5d26fc-2b8b-41a9-9d2d-9da45b0e234d
+
+---
+
 After learning about **Attention** and **Self-Attention**, I wanted to take the next step — implementing a complete **Transformer model** myself.
 
 This project helped me understand how each part — **encoder, decoder, and attention heads** — work together to make translation possible.
@@ -71,5 +77,4 @@ This alignment tells the model how “correct” its prediction was at each step
 **#DeepLearning #NLP #Transformers #AttentionMechanism #MachineLearning #AI #SequenceModeling #LanguageTranslation #DataScience #NeuralNetworks**
 
 
-https://github.com/user-attachments/assets/9a5d26fc-2b8b-41a9-9d2d-9da45b0e234d
 
